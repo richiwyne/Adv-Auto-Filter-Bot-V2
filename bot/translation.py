@@ -12,8 +12,4 @@ class Translation(object):
     
     HELP_TEXT = നീ ഏതാ..... ഒന്ന് പോടെയ് അവൻ help ചോയ്ച്ച് വന്നിരിക്കുന്നു😤...I'm Different Bot U Know
  
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
-    
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Elonmusk_010">ELON MUSK</a></i></b>
-
 """

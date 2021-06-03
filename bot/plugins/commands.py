@@ -93,8 +93,6 @@ async def start(bot, update):
         InlineKeyboardButton('Channel🌟', url ='https://t.me/searchit00')
     ],[
         InlineKeyboardButton('Developer😎', url='https://t.me/Elonmusk_010')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)

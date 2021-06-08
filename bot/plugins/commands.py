@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Join Our Official Channel🧚‍♀️', url="https://t.me/searchit00"
+                                    '★ᴊᴏɪɴ ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ★', url="https://t.me/searchit00"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Join Our Official Channel🧚‍♀️', url="https://t.me/searchit00"
+                                    'ᴊᴏɪɴ ᴏᴜʀ ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ🧚‍♀️', url="https://t.me/searchit00"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Join Our Official Channel', url="https://t.me/searchit00"
+                                    '👼ᴊᴏɪɴ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ👼', url="https://t.me/searchit00"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Group♻️', url='https://t.me/searchit_group'),
-        InlineKeyboardButton('Channel🌟', url ='https://t.me/searchit00')
+        InlineKeyboardButton('ɢʀᴏᴜᴘ 💬', url='https://t.me/searchit_group'),
+        InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ 🎭', url ='https://t.me/searchit00')
     ],[
-        InlineKeyboardButton('Developer😎', url='https://t.me/Elonmusk_010')
+        InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ 👼', url='https://t.me/Elonmusk_010')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)

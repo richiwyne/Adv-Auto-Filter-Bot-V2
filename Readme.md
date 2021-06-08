@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot)..__
+__No One Is Going To Help You😂(https://github.com/richiwyne/Adv-Auto-Filter-Bot-V2.git)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/CinemaGramam) For Support/Assistance And Our [Channel](https://www.telegram.dog/CinemaGramam) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.

@@ -147,7 +147,7 @@ async def auto_filter(bot, update):
         if len_result != 1:
             result[0].append(
                 [
-                    InlineKeyboardButton("Next ⏩", callback_data=f"navigate(0|next|{query})")
+                    InlineKeyboardButton("Go To Next Page ⏩", callback_data=f"navigate(0|next|{query})")
                 ]
             )
         
@@ -203,7 +203,7 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"𝙵ᴏᴜɴᴅ {(len_results)} ʀᴇ𝗌ᴜʟᴛ𝗌 𝚏ᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ: <code>{query}</code>\n\n✫ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 👉 @searchit00",
+                text=f"𝙵ᴏᴜɴᴅ {(len_results)} ʀᴇ𝗌ᴜʟᴛ𝗌 𝚏ᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ: <code>{query}</code>\n\n✫ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ @searchit00",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_message_id=update.message_id

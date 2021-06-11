@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>No One Is Really Going To Help You 😂</b>"""    
+    START_TEXT = """<b>No One Is Really Going To Help You 😂,This Bot Exclusively Made For @CinemaGramam </b>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
